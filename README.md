@@ -1,2 +1,2 @@
-# spring-boot-ecommerce-
+# spring-boot-ecommerce
 Angular and Spring Boot Project
